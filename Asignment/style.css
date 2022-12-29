@@ -1,0 +1,48 @@
+.picture{
+    float: left;
+}
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    float: right;
+    text-transform: capitalize;
+}
+
+
+button{
+    background-color: lightgreen;
+    height: 35px;
+    width: 150px;
+}
+
+
+.icon{
+    /* size: 10px; */
+    font-size: 20px;
+    margin-top: 15px;
+    color: blue; 
+}
+
+
+button:visited{
+    background: lightgreen;
+    color: black
+}
+
+button:active{
+    background: lightblue;
+    color: white;
+}
+
+
+.log_in{
+    width: 100%;
+    height: 60px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 20px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
